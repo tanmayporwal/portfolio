@@ -1,5 +1,4 @@
 import React from "react";
-import project1 from "../one.jpeg";
 import p2pimg from "../projectImages/p2pbt.png";
 import twitterimg from "../projectImages/twitter.PNG";
 import hearitimg from "../projectImages/hearit.PNG";
